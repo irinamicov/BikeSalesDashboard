@@ -1,5 +1,7 @@
 # Bike Sales Dashboard
 
+<img width="1170" alt="Screenshot 2022-05-04 at 09 42 37" src="https://user-images.githubusercontent.com/87451744/166648875-bfa8088e-b9f5-4ee3-b4d5-3c7a25ab5949.png">
+
 ## Project description
 I used [bike sales data](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) to create this project in **Excel.** After cleaning the data, I built several interactive charts showing the number of customers who purchased a bike vs those who didn't, based on their gender, income, age and commute distance. Additionally, the filters on the right-hand side allow drilling down the data even further by marital status, education, region and more.
 
